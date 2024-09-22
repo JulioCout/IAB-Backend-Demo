@@ -298,45 +298,4 @@ Projeto desenvolvido por Julio Coutinho. Entre em contato!
 
 <p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
 
-  
 
-#### Ferramentas
-
-- [Postman](https://www.postman.com/) - Testes de API
-
-- [VSCode](https://code.visualstudio.com/) - Editor de código
-
-  
-  
-
-<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
-
-  
-
-## Licença
-
-  
-
-Este projeto esta sob a licença [MIT](./LICENSE). Consulte o arquivo LICENSE.md para mais informações.
-
-  
-
-<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
-
-  
-
-## Autor
-
-<b>Julio Coutinho</b><br  />
-
-<img  style="border-radius: 50%;"  src="https://avatars.githubusercontent.com/u/90656852?v=4"  width="100px;"  alt=""/><br  />
-
-Projeto desenvolvido por Julio Coutinho. Entre em contato!
-
-  
-
-[LinkedIn](https://www.linkedin.com/in/juliocscoutinho//)
-
-[E-mail](mailto:contact@juliocoutinho.com)
-
-<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
