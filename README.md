@@ -25,6 +25,9 @@
   
 
 
+
+| ------------- | --- |
+
 | :sparkles: Nome | **REST-API IAB**
 
 | :label: Tecnologias | Django, SQL Server, JWT
@@ -74,7 +77,7 @@
 
 <p  align="justify">
 
-API RESTful desenvolvida sob medida para servir como camada de back-end do sistema de gerenciamento de dados do Instituto dos Advogados Brasileiros.<br  />
+API RESTful desenvolvida sob medida para servir como camada de back-end do sistema de gerenciamento de dados do Instituto dos Advogados Brasileiros.<br/>
 
 API desenvolvida em Python com o framework Django, utiliza um sistema de autenticação stateless e banco de dados SQL Server.
 
@@ -131,44 +134,44 @@ Os endpoints da API REST estão descritos abaixo.
 
 #### Membros
 
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /membros &nbsp;&nbsp;→&nbsp;&nbsp; Listar membros
-&nbsp;&nbsp;&nbsp;&nbsp;`POST` /membros &nbsp;&nbsp;→ &nbsp;&nbsp;Criar membro
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar um membro
-&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar um membro
-&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar um membro
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /membros &nbsp;&nbsp;→&nbsp;&nbsp; Listar membros<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`POST` /membros &nbsp;&nbsp;→ &nbsp;&nbsp;Criar membro<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar um membro<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar um membro<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /membros/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar um membro<br/>
 
 
 #### Indicações
 
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /indicacoes &nbsp;&nbsp;→ &nbsp;&nbsp;Listar indicações
-&nbsp;&nbsp;&nbsp;&nbsp;`POST` /indicacoes &nbsp;&nbsp;→ &nbsp;&nbsp;Criar indicação
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma indicação
-&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma indicação
-&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma indicação
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /indicacoes &nbsp;&nbsp;→ &nbsp;&nbsp;Listar indicações<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`POST` /indicacoes &nbsp;&nbsp;→ &nbsp;&nbsp;Criar indicação<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma indicação<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma indicação<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /indicacoes/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma indicação<br/>
 
 #### Processos
 
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /processos &nbsp;&nbsp;→ &nbsp;&nbsp;Listar processos
-&nbsp;&nbsp;&nbsp;&nbsp;`POST` /processos &nbsp;&nbsp;→ &nbsp;&nbsp;Criar processo
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar um processo
-&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar um processo
-&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar um processo
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /processos &nbsp;&nbsp;→ &nbsp;&nbsp;Listar processos<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`POST` /processos &nbsp;&nbsp;→ &nbsp;&nbsp;Criar processo<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar um processo<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar um processo<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /processos/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar um processo<br/>
 
 #### Receitas
 
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /receitas &nbsp;&nbsp;→ &nbsp;&nbsp;Listar receitas
-&nbsp;&nbsp;&nbsp;&nbsp;`POST` /receitas &nbsp;&nbsp;→ &nbsp;&nbsp;Criar receita
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma receita
-&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma receita
-&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma receita
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /receitas &nbsp;&nbsp;→ &nbsp;&nbsp;Listar receitas<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`POST` /receitas &nbsp;&nbsp;→ &nbsp;&nbsp;Criar receita<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma receita<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma receita<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma receita<br/>
 
 #### Despesas despesas
 
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Listar despesas
-&nbsp;&nbsp;&nbsp;&nbsp;`POST` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Criar despesa
-&nbsp;&nbsp;&nbsp;&nbsp;`GET` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma despesa
-&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma despesa
-&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma despesa
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Listar despesas<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`POST` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Criar despesa<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`GET` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Consultar uma despesa<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma despesa<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /despesas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma despesa<br/>
   
 
 <p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
@@ -251,6 +254,49 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Django Rest Framework 3.15.2](https://www.django-rest-framework.org/) - Framework
 
  
+
+  
+
+#### Ferramentas
+
+- [Postman](https://www.postman.com/) - Testes de API
+
+- [VSCode](https://code.visualstudio.com/) - Editor de código
+
+  
+  
+
+<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
+
+  
+
+## Licença
+
+  
+
+Este projeto esta sob a licença [MIT](./LICENSE). Consulte o arquivo LICENSE.md para mais informações.
+
+  
+
+<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
+
+  
+
+## Autor
+
+<b>Julio Coutinho</b><br  />
+
+<img  style="border-radius: 50%;"  src="https://avatars.githubusercontent.com/u/90656852?v=4"  width="100px;"  alt=""/><br  />
+
+Projeto desenvolvido por Julio Coutinho. Entre em contato!
+
+  
+
+[LinkedIn](https://www.linkedin.com/in/juliocscoutinho//)
+
+[E-mail](mailto:contact@juliocoutinho.com)
+
+<p  align="right">(<a  href="#readme-top">voltar para o início</a>)</p>
 
   
 
