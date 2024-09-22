@@ -25,9 +25,6 @@
   
 
 
-
-| ------------- | --- |
-
 | :sparkles: Nome | **REST-API IAB**
 
 | :label: Tecnologias | Django, SQL Server, JWT
