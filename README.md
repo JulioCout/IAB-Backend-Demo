@@ -32,7 +32,7 @@
 
 | :label: Tecnologias | Django, SQL Server, JWT
 
-| :rocket: URL | https://webapp-financeira.herokuapp.com/
+| :rocket: URL | https://iab-backend-demo-iwdw.vercel.app/
 
 
 
