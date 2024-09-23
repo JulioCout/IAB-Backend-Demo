@@ -165,7 +165,7 @@ Os endpoints da API REST estão descritos abaixo.
 &nbsp;&nbsp;&nbsp;&nbsp;`PATCH` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Editar uma receita<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`DELETE` /receitas/id &nbsp;&nbsp;→ &nbsp;&nbsp;Apagar uma receita<br/>
 
-#### Despesas despesas
+#### Despesas
 
 &nbsp;&nbsp;&nbsp;&nbsp;`GET` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Listar despesas<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`POST` /despesas &nbsp;&nbsp;→ &nbsp;&nbsp;Criar despesa<br/>
@@ -199,7 +199,7 @@ python -m venv venv
 
 ```
 
-3. Ative o ambiente vietual :
+3. Ative o ambiente virtual :
 
   ```
 
